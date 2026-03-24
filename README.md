@@ -2,9 +2,11 @@
 
 I build software and I like to understand **why** it’s being built.
 
-Background in **Computer Engineering & Business Administration**, currently working as a **Software Developer at HAT.tec (Munich)**, a company focused on mission management systems for aerospace and defense environments.
+Background in **Computer Engineering & Business Administration**, currently working as a **Data Architect at Nfq (Madrid)**, a consultory focused in banking, real estate and insurance.
 
 I’m especially interested in:
+- data
+- enterprise business intelligence platforms
 - distributed systems
 - performance & concurrency
 - system design beyond the whiteboard
